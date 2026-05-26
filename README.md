@@ -18,5 +18,6 @@ This project focuses on applying Machine Learning techniques to analyze data, bu
 5. Model Evaluation
 6. Prediction & Visualization
 
-##Conclusion
+## Conclusion
+
 This project successfully developed a Machine Learning model to predict lead conversion using historical lead data collected from multiple marketing sources and campaigns. The dataset was preprocessed through data cleaning, missing value handling, encoding categorical variables, and feature engineering to improve model performance. Exploratory Data Analysis (EDA) helped identify important patterns and factors influencing lead conversion. Multiple classification algorithms including Logistic Regression, Decision Tree, and Random Forest were trained and evaluated. Among all models, the Random Forest Classifier achieved the best performance with approximately 98% accuracy, showing strong capability in predicting whether a lead will convert or not. Evaluation metrics such as Precision, Recall, F1-Score, and Confusion Matrix confirmed the effectiveness of the model. The final prediction system can help businesses: Identify high-potential leads, Prioritize follow-ups, Improve marketing efficiency, Increase conversion rates.
